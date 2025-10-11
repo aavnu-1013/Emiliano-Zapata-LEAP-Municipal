@@ -25,5 +25,5 @@ Si utilizas este modelo o sus datos, por favor cita este trabajo de la siguiente
 
 ## Licencia
 
-Este trabajo está licenciado bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](URL a la licencia).
+Este trabajo está licenciado bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://github.com/aavnu-1013/Emiliano-Zapata-LEAP-Municipal/tree/main?tab=CC0-1.0-1-ov-file).
 ![Logo de la licencia CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
