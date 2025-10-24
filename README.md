@@ -5,18 +5,20 @@ Este modelo construido en LEAP es una aproximación al balance de energía del m
 Este repositorio contiene los datos y el modelo desarrollado en la palataforma Low Emissions Platform Analysis (LEAP) (Heaps, 2022)
 
 ## Descripción del Proyecto
+El modelo LEAP del municipio de Emiliano Zapata, Morelos en México, es una aproximación al Balance de Energía de dicha demarcación geográfica, consruído mediante datos de diversas fuentes secundarias. Tiene el objetivo de servir como parte de la evaluación de resiliencia energética que reporto en mi Tesis de Maestría (cuyo link publico compartiré en cuanto sea aprobada), además, puede servir a grupos tomadores de decisión para identificar energéticos y servicios energéticos relevantes para la comunidad.
 
-Este modelo se construyó a partir de los datos disponibles en fuentes secundarias:
-- Censos de Población y Vivienda del INEGI -> https://www.inegi.org.mx/programas/ccpv/2020/
-- Encuesta Nacional sobre Consumo de Energéticos en Viviendas Particulares (ENCEVI) 2018 ->  https://www.inegi.org.mx/programas/encevi/2018/
+Por otra parte, es posible replicar este modelo siguiendo la metodología que detallé en la tesis y utilizando las fuentes de datos correspondientes en otros municipios del país, lo cual es de interés político y académico. 
 
 ## Estructura del Repositorio
 
-*En construcción
-
+- **/datos:** Contiene los datos de las encuestas en crudo.
+- **/modelo:** Contiene algunas versiones del modelo LEAP que pueden correrse en el software
+- **/salidas:** Contiene algunos resultados generados
+  
 ## Datos
-
-*En construcción
+Este modelo se construyó a partir de los datos disponibles en fuentes secundarias:
+- Censos de Población y Vivienda del INEGI -> https://www.inegi.org.mx/programas/ccpv/2020/
+- Encuesta Nacional sobre Consumo de Energéticos en Viviendas Particulares (ENCEVI) 2018 ->  https://www.inegi.org.mx/programas/encevi/2018/
 
 ## Cómo Citar
 
